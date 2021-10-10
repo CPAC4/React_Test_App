@@ -6,7 +6,7 @@ export default function Welcome() {
         //     <img src="/img/CPAC-NOW.png" />
         // </div>
         <div className="w-full h-screen flex justify-center items-center">
-            <img className=" w-96 " src="/img/CPAC-NOW.png" />
+            <img className=" w-2/3 " src="/img/r.gif" />
         </div>
     )
 }
